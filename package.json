@@ -15,6 +15,7 @@
     "@modules/app-menu": "file:./modules/app-menu",
     "@modules/articles": "file:./modules/articles",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
+    "@modules/social-login": "file:./modules/social-login",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
